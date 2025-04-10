@@ -1,0 +1,9 @@
+fastapi[all]==0.115.12
+
+python-dotenv
+pydantic-settings
+
+sqlalchemy
+aiosqlite
+
+gunicorn
