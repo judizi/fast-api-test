@@ -6,4 +6,6 @@ pydantic-settings
 sqlalchemy
 aiosqlite
 
+bcrypt
+
 gunicorn
